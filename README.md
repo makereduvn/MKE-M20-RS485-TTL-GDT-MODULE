@@ -102,4 +102,3 @@ Ngoài ra, mạch tích hợp chuyển mức logic tương thích với cả 3.3
 ## Hình ảnh sản phẩm
 ![MKE-M20 TTL RS485 GDT](/extras/MKE-M20_2.png)
 ![MKE-M20 TTL RS485 GDT](/extras/MKE-M20_3.png)
-![MKE-M20 TTL RS485 GDT](/extras/MKE-M20_4.png)
